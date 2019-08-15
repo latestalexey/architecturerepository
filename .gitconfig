@@ -1,6 +1,0 @@
-[user]
-	name = R. Middel
-	email = r.middel@sanoma.com
-	signingkey = 56F6D1B9E63C652E206F5BB0E909BB4F26E338FB
-[commit]
-	gpgSign = true

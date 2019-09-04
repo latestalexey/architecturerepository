@@ -1,1 +1,4 @@
-* [Primacy of Principles](./primacy_of_principles.md)
+# Business principles
+
+* [Primacy of Principles](primacy-of-principles.md)
+

@@ -2,7 +2,9 @@
 
 ## Metadata
 
-_Title:_ Enterprise Integration Patterns - Designing, Building and Deploying Messaging Solutions _Author:_ Gregor Hohpe, Bobby Woolf, Frank Leymann _Publisher:_ Prentice Hall
+_Title:_ Enterprise Integration Patterns - Designing, Building and Deploying Messaging Solutions  
+_Author:_ Gregor Hohpe, Bobby Woolf, Frank Leymann   
+_Publisher:_ Prentice Hall
 
 ## Tags
 

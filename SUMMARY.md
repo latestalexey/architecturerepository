@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Summary](README.md)
 
 ## principles
+* [Application principles](principles/application_principles/README.md)
+* [Business principles](principles/business_principles/README.md)
 
-* [Hello world](principles/hello-world/README.md)
-  * [Subpage](principles/hello-world/subpage.md)
-
+## Resources
+* [Books](resources/books/README.md)

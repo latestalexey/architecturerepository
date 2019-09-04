@@ -4,5 +4,6 @@
 
 ## principles
 
-* [Hello world](principles/hello-world.md)
+* [Hello world](principles/hello-world/README.md)
+  * [Subpage](principles/hello-world/subpage.md)
 

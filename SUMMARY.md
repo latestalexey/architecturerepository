@@ -14,5 +14,8 @@
 
 * [Books](resources/books/README.md)
   * [Enterprise Integration Patterns](resources/books/frank_leymann-enterprise_integration_patterns_designing_building_and_deploying_messaging_solutions-p.md)
-* [LICENSE](resources/license.md)
+
+## Appendix
+
+* [LICENSE](appendix/license.md)
 
